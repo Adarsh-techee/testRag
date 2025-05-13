@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-elasticsearch
+langchain-huggingface
+langchain-ollama
+sentence-transformers
+PyPDF2
+python-docx
+dedoc  
+pdfminer.six  
+elasticsearch
+streamlit
+requests
+pydantic
+typing-extensions
